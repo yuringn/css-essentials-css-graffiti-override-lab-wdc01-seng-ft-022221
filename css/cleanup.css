@@ -3,9 +3,11 @@ div#wall .tag-1{
     display:none;
 }
 
-div#wall #tag-2, #tag-4, #tag-3.slick, .parent #tag-5.slick {
+div#wall #tag-2, #tag-3.slick, .parent #tag-5.slick {
   display: none;
 }
+
+div#wall #tag-4{display:none;}
 
 div#wall div.parent div:last-child div#tag-6 {
     display: none;
