@@ -1,9 +1,11 @@
 /* write your override styles here */
-div#wall .tag-1, #tag-2, #tag-4{
+div#wall .tag-1{
     display:none;
 }
 
-
+div#wall #tag-2, #tag-4{
+  display: none;
+}
 
 #wall #tag-3.slick{
   display: none;
