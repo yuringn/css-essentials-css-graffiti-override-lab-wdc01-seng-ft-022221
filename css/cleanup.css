@@ -3,11 +3,9 @@ div#wall .tag-1{
     display:none;
 }
 
-div#wall #tag-2, #tag-4{
-  display: none;
-}
 
-#wall #tag-3.slick{
+
+div#wall #tag-2, #tag-4, #tag-3.slick{
   display: none;
 }
 
