@@ -1,8 +1,8 @@
 /* write your override styles here */
-div#wall .tag-1{
+div#wall {
     display:none;
 }
 
-div#wall #tag-2, #tag-4, #tag-3.slick, .parent #tag-5.slick {
+div#wall .tag-1, #tag-2, #tag-4, #tag-3.slick, .parent #tag-5.slick {
   display: none;
 }
